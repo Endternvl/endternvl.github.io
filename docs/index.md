@@ -45,10 +45,5 @@ Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endternvl&show_icons=true&theme=tokyonight)](https://github.com/Endternvl)
 
-<body>
-
-<h1>The button Element</h1>
-
-<button type="button" onclick="alert('Hello world!')">Click Me!</button>
- 
-</body>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
