@@ -1,4 +1,3 @@
-# Hello! I'm Endternvl
 Hello! I'm Endternvl, aka. Skaryetskys. I come from indonesia. I Live in **BEKASI**
 
 ## What Is My Job
