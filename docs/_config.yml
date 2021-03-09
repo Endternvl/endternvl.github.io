@@ -1,1 +1,22 @@
-theme: minima
+title: Endternvl
+description: endternvl web
+owner_name: Endternvl
+url: https://endternvl.github.io
+logo: logo.png
+social:
+  name: Skaryetskys
+  links:
+    - https://github.com/Endternvl
+name: endternvl.github.io
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+plugins:
+  - jekyll-seo-tag
+defaults:
+  -
+    scope:
+      path: "docs"
+    values:
+      layout: "default"
